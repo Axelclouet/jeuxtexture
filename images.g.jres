@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
     },
+    "image2": {
+        "data": "hwQeAB4AAAAREREREREREREREREREREAERHxEREREXERdxF3FxERABER8RERERFxcXEREXcREQAREREfERERcRdxERFxEREAERERGBERGBERERERdxERABERiP8RERgRdxcREXEREQAR8fH4EREYcRFxERF3EREAERERj/8RGHERcRF3FxERABEREfH4EfgRdxcRERIXEQAREREh+C+PIiIiIiJyEfEAIiIiIvIv8ih3JyJ3FxGBACIiIiLy+PIvJyJychIRgQDyKP8vIv+PL3cnJ3ISEfEAIo+I+C/yjy8nInJyEhGBACIiIv/////4dycid3eBiAAiIiIi////iPgiIiLyh/8AIiIiIiL//3d3d4iIiIgfACIiIogvIv9/f3h4d3d3/wAiIiKC+C//f3d3f3/3//8AIiIiIv//j////39/f///ACIiIiIiiP////9yf//3/wAiIiLyiPh/eHd3cncScf8AIiLyiP8v8vgvIiIiEhHxACIi/ygiIv8vIiIiIhIR8QAi8i8iIvL4d3d3IiIREREAIvIiIiL/IicnciIiERERACLy8iIi+CInJ3IiEhEREQAiL/KPjy8iJydyEhEREREAIi8i8v8vIiISERERERERACIiIiLyIhEREREREREREQA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
